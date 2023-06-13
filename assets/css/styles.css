@@ -412,43 +412,10 @@ h5 {
 
 /* new change  */
 #c2 audio {
-  /* background-color: #0c1126; */
   width: 70%;
   height: 78%;
 }
 
-/* new change  */
-
-/* #play-pause {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  height: 50%;
-  width: 18vw;
-  margin-top: 1%;
-}
-#play-pause i {
-  font-weight: bold;
-  font-size: 1.4rem;
-}
-#BAR {
-  height: 50%;
-  width: 100%;
-  display: flex;
-}
-#Bar1 {
-  height: 50%;
-  width: 100%;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  margin-top: 1%;
-}
-#barsize {
-  width: 65%;
-  margin-left: 2%;
-  margin-right: 2%;
-} */
 #c3 {
   display: flex;
   align-items: center;
@@ -471,7 +438,6 @@ h5 {
   -webkit-text-stroke-color: greenyellow;
 }
 
-/* updattion */
 #second-page {
   margin-top: 1.5vw;
   margin-left: 6vw;
@@ -526,10 +492,4 @@ h5 {
     width: 65vw;
   }
 }
-
-/* @media screen and (max-width: 590px) {
-  #play-pause {
-    width: 35vw;
-  }
-} */
 /* css end */
